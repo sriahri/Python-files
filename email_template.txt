@@ -1,0 +1,5 @@
+To: {email}
+From: noreplay@abc.com
+Subject: Deals!
+Hi {first_name},
+We've got some deals for you. check out.

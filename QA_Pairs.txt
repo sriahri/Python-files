@@ -1,0 +1,24 @@
+question Who is Arya Stark's wife?
+answer House Lannister
+question Who escaped the persecution of House Stark?
+answer Faceless Man
+question What is Arya trained as at the House of Black and White in Braavos?
+answer House Stark
+question Who was the faceless man in Braavos?
+answer Frey
+question What male line does Arya exterminate after returning to Westeros?
+answer Jon Snow, King
+question Who is the half-brother of Arya's half-brother?
+answer Winterfell
+question Where did Arya return to?
+answer Petyr Baelish
+question Who manipulated Arya's half-brother?
+answer House Stark
+question Petyr Baelish was executed for his crimes against whom?
+answer the Battle of Winterfell
+question When did Arya kill the Night King?
+answer Sandor Clegane
+question Who killed Cersei Lannister?
+answer Daenerys Targaryen
+question Who destroys King's
+answer Sandor Landing

@@ -1,0 +1,5 @@
+Name is: John Smith
+ID : 2654123216
+Phone Number is 3216549874
+GPA is4.5
+Department is CS

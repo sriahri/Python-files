@@ -1,0 +1,7 @@
+From Jack jack@abc.com
+To John john@abc.com
+From Rosi Rosi@abc.com
+From Jack jack@abc.com
+From Danny danny@xyz.com
+To Charles charles@abc.com
+From Jack jack@abc.co,

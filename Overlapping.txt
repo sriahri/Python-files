@@ -1,0 +1,4 @@
+question What is Arya trained as at the House of Black and White in Braavos?
+answer House Stark
+question Who manipulated Arya's half-brother?
+answer House Stark

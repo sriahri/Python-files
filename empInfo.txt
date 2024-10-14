@@ -1,0 +1,6 @@
+Dept,Id,Name,Email,Salary
+CS,1101,ahmad m,ahmandm@abc.com,500
+CS,1102,yousef z,yousefz@abc.com,580
+SWE,2101,sara w,saraw@abc.com,450
+SWE,2102,ahmad x,ahmandx@abc.com,600
+CS,1103,khaled e,khalede@abc.com,630

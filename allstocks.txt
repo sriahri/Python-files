@@ -1,0 +1,4 @@
+Symbol,Company Name,Sector,Industry,Exchange
+A,ABC,Health,He,12.0
+B,BBB,Medicine,SSS,123.0
+C,XYZ,Bank,QQQ,21.0

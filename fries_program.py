@@ -1,0 +1,5 @@
+fries = input()
+fries = str(fries)
+fries = int(fries)
+print("Data type =: ", type(fries))
+print("Data value=: ", fries)

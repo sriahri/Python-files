@@ -1,0 +1,5 @@
+Trex, Alice, Grade_1, 6
+Smith, John, UG, 21
+Carlos, steve, PG, 25
+Hales, Sara, HS, 18
+Jose, Alex, UG, 21

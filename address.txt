@@ -1,0 +1,6 @@
+"Text file" refers to a type of container, while plain text refers to a type of content.
+At a generic level of description, there are two kinds of computer files: text files and binary files.
+A simple text file may need no additional metadata (other than knowledge of its character set) to assist the reader in interpretation.
+A text file may contain no data at all, which is a case of zero-byte file.
+On Unix-like operating systems text files format is precisely described: POSIX defines a text file as a file that contains characters organized into zero or more lines,[4] where lines are sequences of zero or more non-newline characters plus a terminating newline character, normally LF.
+Additionally, POSIX defines a printable file as a text file whose characters are printable or space or backspace according to regional rules. This excludes most control characters, which are not printable.

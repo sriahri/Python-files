@@ -1,0 +1,5 @@
+SensorId city pressureReading
+501 Krteh 567.7
+502 Kuantan 123.4
+503 Gmabang 975.7
+504 Gebeng 65.6

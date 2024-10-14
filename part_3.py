@@ -1,0 +1,8 @@
+file = open("textfile1.txt", "r")
+lines = file.readlines()
+print("The file contains {} lines".format(len(lines)))
+file.close()
+file = open("textfile2.txt", "w")
+file.writelines(lines)
+print("The contents of the file is written to textfile2.txt")
+file.close()

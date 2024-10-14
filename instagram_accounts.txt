@@ -1,0 +1,35 @@
+JohnSmith
+first name = John
+last name = Smith
+age = 23
+mobile number = 1234567890
+followers = ['James', 'Danny', 'Selene']
+
+JackJones
+first name = Jack
+last name = Jones
+age = 21
+mobile number = 1267857889
+followers = ['Jack']
+
+SeleneGomez
+first name = Selene
+last name = Gomez
+age = 28
+mobile number = 6547896542
+followers = ['Danny']
+
+DannyBose
+first name = Danny
+last name = Bose
+age = 22
+mobile number = 234987654
+followers = ['James']
+
+JamesGordon
+first name = James
+last name = Gordon
+age = 29
+mobile number = 675438976
+followers = ['Jack']
+

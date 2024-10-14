@@ -1,0 +1,7 @@
+Hello world
+*** START OF SYNTHETIC CASE
+james' words included hypen-words!
+what's this
+what's going on
+*** END OD SYNTHETIC TEST CASE
+Good bye
